@@ -1,0 +1,113 @@
+[32m[I][39m [32m[Element //android.widget.FrameLayout[@content-desc="Contacts"]/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.TextView Found][39m [32m[190309 23:47:22][39m
+{"level": "INFO", "message": "Element //android.widget.FrameLayout[@content-desc=\"Contacts\"]/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.TextView Found", "timestamp": "2019-03-09 23:49"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-09 23:54"}
+{"level": "INFO", "message": "test_1_send_chat", "timestamp": "2019-03-09 23:54"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-09 23:54"}
+{"level": "INFO", "message": "Element //android.widget.FrameLayout[@content-desc=\"Contacts\"]/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.TextView Found", "timestamp": "2019-03-09 23:54"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-10 00:00"}
+{"level": "INFO", "message": "test_1_send_chat", "timestamp": "2019-03-10 00:00"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-10 00:00"}
+{"level": "INFO", "message": "Element //android.widget.FrameLayout[@content-desc=\"Contacts\"]/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.TextView Found", "timestamp": "2019-03-10 00:00"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-10 00:01"}
+{"level": "INFO", "message": "test_1_send_chat", "timestamp": "2019-03-10 00:01"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-10 00:01"}
+{"level": "INFO", "message": "Element //android.widget.FrameLayout[@content-desc=\"Contacts\"]/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.TextView Found", "timestamp": "2019-03-10 00:01"}
+{"level": "INFO", "message": "Element //android.widget.TextView[@text=\"Bot Demo\"] Found", "timestamp": "2019-03-10 00:01"}
+{"level": "DEBUG", "message": "clicking Bot Demo", "timestamp": "2019-03-10 00:01"}
+{"level": "DEBUG", "message": "typing menu", "timestamp": "2019-03-10 00:01"}
+{"level": "DEBUG", "message": "test_send_chat passed", "timestamp": "2019-03-10 00:01"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-10 00:03"}
+{"level": "INFO", "message": "test_1_send_chat", "timestamp": "2019-03-10 00:03"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-10 00:03"}
+{"level": "INFO", "message": "Element //android.widget.FrameLayout[@content-desc=\"Contacts\"]/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.TextView Found", "timestamp": "2019-03-10 00:03"}
+{"level": "INFO", "message": "Element //android.widget.TextView[@text=\"Bot Demo\"] Found", "timestamp": "2019-03-10 00:03"}
+{"level": "DEBUG", "message": "clicking Bot Demo", "timestamp": "2019-03-10 00:03"}
+{"level": "DEBUG", "message": "typing menu", "timestamp": "2019-03-10 00:03"}
+{"level": "DEBUG", "message": "test_send_chat passed", "timestamp": "2019-03-10 00:03"}
+{"level": "INFO", "message": "Test case test_send_chat PASSED", "timestamp": "2019-03-10 00:03"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-10 00:04"}
+{"level": "INFO", "message": "test_1_send_chat", "timestamp": "2019-03-10 00:04"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-10 00:04"}
+{"level": "INFO", "message": "Element //android.widget.FrameLayout[@content-desc=\"Contacts\"]/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.TextView Found", "timestamp": "2019-03-10 00:04"}
+{"level": "INFO", "message": "Element //android.widget.TextView[@text=\"Bot Demo\"] Found", "timestamp": "2019-03-10 00:04"}
+{"level": "DEBUG", "message": "clicking Bot Demo", "timestamp": "2019-03-10 00:04"}
+{"level": "DEBUG", "message": "typing menu", "timestamp": "2019-03-10 00:05"}
+{"level": "INFO", "message": "Test case test_send_chat PASSED", "timestamp": "2019-03-10 00:05"}
+{"level": "INFO", "message": "---------------------------------------------", "timestamp": "2019-03-10 00:05"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-10 00:14"}
+{"level": "INFO", "message": "test_2_open_games", "timestamp": "2019-03-10 00:14"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-10 00:14"}
+{"level": "INFO", "message": "Element //android.widget.TextView[@text=\"Discover\"] Found", "timestamp": "2019-03-10 00:14"}
+{"level": "INFO", "message": "Opening Discover", "timestamp": "2019-03-10 00:15"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-10 00:18"}
+{"level": "INFO", "message": "test_2_open_games", "timestamp": "2019-03-10 00:18"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-10 00:18"}
+{"level": "INFO", "message": "Element //android.widget.TextView[@text=\"Discover\"] Found", "timestamp": "2019-03-10 00:18"}
+{"level": "INFO", "message": "Opening Discover", "timestamp": "2019-03-10 00:18"}
+{"level": "INFO", "message": "Opening Games", "timestamp": "2019-03-10 00:18"}
+{"level": "INFO", "message": "Landing Games", "timestamp": "2019-03-10 00:18"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-10 00:21"}
+{"level": "INFO", "message": "test_2_open_games", "timestamp": "2019-03-10 00:21"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-10 00:21"}
+{"level": "INFO", "message": "Element //android.widget.TextView[@text=\"Discover\"] Found", "timestamp": "2019-03-10 00:21"}
+{"level": "INFO", "message": "Opening Discover", "timestamp": "2019-03-10 00:21"}
+{"level": "INFO", "message": "Opening Games", "timestamp": "2019-03-10 00:21"}
+{"level": "INFO", "message": "Current Context is  Web View", "timestamp": "2019-03-10 00:22"}
+{"level": "INFO", "message": "Landing Games", "timestamp": "2019-03-10 00:22"}
+{"level": "INFO", "message": "Landing Games is success.", "timestamp": "2019-03-10 00:22"}
+{"level": "INFO", "message": "Test case test_2_open_games PASSED", "timestamp": "2019-03-10 00:22"}
+{"level": "INFO", "message": "---------------------------------------------", "timestamp": "2019-03-10 00:22"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-10 00:24"}
+{"level": "INFO", "message": "test_2_open_games", "timestamp": "2019-03-10 00:24"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-10 00:24"}
+{"level": "INFO", "message": "Element //android.widget.TextView[@text=\"Discover\"] Found", "timestamp": "2019-03-10 00:24"}
+{"level": "INFO", "message": "Opening Discover", "timestamp": "2019-03-10 00:24"}
+{"level": "INFO", "message": "Opening Games", "timestamp": "2019-03-10 00:24"}
+{"level": "INFO", "message": "Current Context is  Web View", "timestamp": "2019-03-10 00:24"}
+{"level": "INFO", "message": "Landing Games", "timestamp": "2019-03-10 00:24"}
+{"level": "INFO", "message": "Landing Games is success.", "timestamp": "2019-03-10 00:24"}
+{"level": "INFO", "message": "Test case test_2_open_games PASSED", "timestamp": "2019-03-10 00:24"}
+{"level": "INFO", "message": "---------------------------------------------", "timestamp": "2019-03-10 00:24"}
+{"level": "INFO", "message": "Current Context is Native", "timestamp": "2019-03-10 00:24"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-10 00:25"}
+{"level": "INFO", "message": "test_1_send_chat", "timestamp": "2019-03-10 00:25"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-10 00:25"}
+{"level": "INFO", "message": "Element //android.widget.FrameLayout[@content-desc=\"Contacts\"]/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.TextView Found", "timestamp": "2019-03-10 00:25"}
+{"level": "INFO", "message": "Element //android.widget.TextView[@text=\"Bot Demo\"] Found", "timestamp": "2019-03-10 00:25"}
+{"level": "DEBUG", "message": "clicking Bot Demo", "timestamp": "2019-03-10 00:25"}
+{"level": "DEBUG", "message": "typing menu", "timestamp": "2019-03-10 00:25"}
+{"level": "INFO", "message": "Test case test_send_chat PASSED", "timestamp": "2019-03-10 00:25"}
+{"level": "INFO", "message": "---------------------------------------------", "timestamp": "2019-03-10 00:25"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-10 00:25"}
+{"level": "INFO", "message": "test_2_open_games", "timestamp": "2019-03-10 00:25"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-10 00:25"}
+{"level": "INFO", "message": "Element //android.widget.TextView[@text=\"Discover\"] Found", "timestamp": "2019-03-10 00:25"}
+{"level": "INFO", "message": "Opening Discover", "timestamp": "2019-03-10 00:25"}
+{"level": "INFO", "message": "Opening Games", "timestamp": "2019-03-10 00:26"}
+{"level": "INFO", "message": "Current Context is  Web View", "timestamp": "2019-03-10 00:26"}
+{"level": "INFO", "message": "Landing Games", "timestamp": "2019-03-10 00:26"}
+{"level": "INFO", "message": "Landing Games is success.", "timestamp": "2019-03-10 00:26"}
+{"level": "INFO", "message": "Test case test_2_open_games PASSED", "timestamp": "2019-03-10 00:26"}
+{"level": "INFO", "message": "---------------------------------------------", "timestamp": "2019-03-10 00:26"}
+{"level": "INFO", "message": "Current Context is Native", "timestamp": "2019-03-10 00:26"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-10 00:27"}
+{"level": "INFO", "message": "test_1_send_chat", "timestamp": "2019-03-10 00:27"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-10 00:27"}
+{"level": "INFO", "message": "Element //android.widget.FrameLayout[@content-desc=\"Contacts\"]/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.TextView Found", "timestamp": "2019-03-10 00:27"}
+{"level": "INFO", "message": "Element //android.widget.TextView[@text=\"Bot Demo\"] Found", "timestamp": "2019-03-10 00:27"}
+{"level": "DEBUG", "message": "clicking Bot Demo", "timestamp": "2019-03-10 00:27"}
+{"level": "DEBUG", "message": "typing menu", "timestamp": "2019-03-10 00:27"}
+{"level": "INFO", "message": "Test case test_send_chat PASSED", "timestamp": "2019-03-10 00:27"}
+{"level": "INFO", "message": "---------------------------------------------", "timestamp": "2019-03-10 00:27"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-10 00:28"}
+{"level": "INFO", "message": "test_2_open_games", "timestamp": "2019-03-10 00:28"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-10 00:28"}
+{"level": "INFO", "message": "Element //android.widget.TextView[@text=\"Discover\"] Found", "timestamp": "2019-03-10 00:28"}
+{"level": "INFO", "message": "Opening Discover", "timestamp": "2019-03-10 00:28"}
+{"level": "INFO", "message": "Opening Games", "timestamp": "2019-03-10 00:28"}
+{"level": "INFO", "message": "Current Context is  Web View", "timestamp": "2019-03-10 00:28"}
+{"level": "INFO", "message": "Landing Games", "timestamp": "2019-03-10 00:28"}
+{"level": "INFO", "message": "Landing Games is success.", "timestamp": "2019-03-10 00:28"}
+{"level": "INFO", "message": "Test case test_2_open_games PASSED", "timestamp": "2019-03-10 00:28"}
+{"level": "INFO", "message": "Current Context is Native", "timestamp": "2019-03-10 00:28"}
+{"level": "INFO", "message": "---------------------------------------------", "timestamp": "2019-03-10 00:28"}
